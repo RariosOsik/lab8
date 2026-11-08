@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\project\lab8_Panin\lab8_Panin\Source.c(6,5): warning C4013: task0: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab8_Panin\lab8_Panin\Source.c(7,5): warning C4013: task1: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab8_Panin\lab8_Panin\Source.c(8,5): warning C4013: task1a: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab8_Panin\lab8_Panin\Source.c(9,5): warning C4013: task2: нет определения; предполагается "extern" с возвратом типа "int"
+  lab8_Panin.vcxproj -> D:\project\lab8_Panin\x64\Debug\lab8_Panin.exe
